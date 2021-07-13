@@ -1,5 +1,5 @@
 # bomberman
-High school grade 12 computer science final project - the game bomberman recreated in java by myself and a partner 
+Grade 12 computer science final project - the game bomberman recreated using java  
 
 Known Bugs:
 - Sometimes the players freeze, jump, or speed up in the middle of a movement due to animation lag
