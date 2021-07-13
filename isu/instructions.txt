@@ -1,0 +1,28 @@
+PLAYER ONE (WHITE):
+Use the WASD keys (W = up, A = left, S = down, D = right) to move Player 2.
+Use the space bar to place bombs.
+
+PLAYER TWO (BLUE):
+Use the arrow keys (up, down, left, right) to move.
+Use the shift key to place bombs.
+
+Goal: Defeat the other player!
+You can defeat the other player by either destroying all of their lives 
+or getting more points.
+
+How is the winner determined?
+If one player loses all three of their lives before the time limit, 
+they are automatically declared the loser and the round ends with 
+the other player as the winner. 
+
+If both players still have at least one life when the time limit is over, 
+the winner is determined by the final number of points.
+
+How to get points:
+1. Destroying the breakable walls
+2. Destroying enemies 
+
+Destroy enemies, breakable walls and your opponent by placing bombs. 
+Make sure to run away before the bomb explodes or you'll be caught in the blast!
+
+Note: Additional settings are found in the menu bar above! (close screen to exit)
